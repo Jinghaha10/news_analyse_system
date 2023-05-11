@@ -1,0 +1,15 @@
+
+
+
+右上角启动manage。py
+打开terminal窗口，输入启动命令
+  npm run dev运行程序即可。  
+
+然后浏览器打开链接即可
+        http://127.0.0.1:8000/
+
+
+
+
+账号：admins  密码：admins  
+账号：test0001 密码：test0001  
